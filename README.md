@@ -23,3 +23,4 @@
 - [GitHub Docs: GitHub Packages](https://docs.github.com/packages)
 
 ## [Click here to get started with the workshop](workshop/workshop_instructions1.md)
+-[![React App CI](https://github.com/nitya118/ci-cd-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/nitya118/ci-cd-with-actions/actions/workflows/ci.yml)
